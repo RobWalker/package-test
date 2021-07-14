@@ -1,0 +1,16 @@
+{
+  "name": "test-client",
+  "version": "0.1.0",
+  "description": "Test CORE",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "vite --mode development",
+    "build": "vue-tsc --noEmit && vite build",
+    "test": "jest"
+  },
+  "keywords": [],
+  "dependencies": {
+    "test-base": "^0.1.0",
+    "test-core": "^0.1.0"
+  }
+}

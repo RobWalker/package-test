@@ -1,0 +1,16 @@
+{
+  "name": "test-base",
+  "version": "0.1.0",
+  "description": "Test BASE",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "echo 'This is a no-op?'",
+    "test": "jest"
+  },
+  "keywords": [],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.7.0",
+    "tough-cookie": "^4.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "test-core",
+  "version": "0.1.0",
+  "description": "Test CORE",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "echo 'This is a no-op?'",
+    "test": "jest"
+  },
+  "keywords": [],
+  "dependencies": {
+    "test-base": "^0.1.0"
+  }
+}
