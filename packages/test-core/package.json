@@ -4,7 +4,7 @@
   "description": "Test CORE",
   "main": "src/main.ts",
   "scripts": {
-    "build": "echo 'This is a no-op?'",
+    "build": "vue-tsc --noEmit",
     "test": "jest"
   },
   "keywords": [],

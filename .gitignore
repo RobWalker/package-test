@@ -8,5 +8,6 @@
 **/_generated/*
 **/node_modules/*
 **/publish/*
+**/dist/*
 
 **/lerna-debug.log

@@ -15,7 +15,13 @@
     "paths": {
       "@/*": [
         "./*"
-      ]
+      ],
+      "@base/*": [
+        "../test-base/src/*"
+      ],
+      "@core/*": [
+        "../test-core/src/*"
+      ]      
     }
   },
   
